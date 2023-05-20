@@ -1,6 +1,6 @@
-# next-template
+## Whats that?
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+Just me exploring Next + ShadcnUi + Tailwind + Custom components I'm building for fun
 
 ## Usage
 
